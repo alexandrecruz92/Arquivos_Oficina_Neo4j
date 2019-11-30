@@ -1,0 +1,95 @@
+EstCar;CodCar;NomCar
+6;5;Gerente Jurídico
+6;10;Analista Financeiro
+6;11;Auxiliar Administrativo
+6;12;Analista RH
+1;8;Médico do Trabalho
+6;13;Auxiliar RH
+6;14;Analista Contábil
+6;15;Contador
+6;16;Advogado
+6;17;Analista Jurídico
+6;18;Auxiliar Jurídico
+6;19;Auxiliar Expedição
+6;20;Expedidor
+6;21;Téc. Seg. Trabalho
+6;22;Recepcionista
+6;23;Telefonista
+6;24;Auxiliar Contabilidade
+6;25;Engenheiro Segurança Trabalho
+1;11;Auxiliar Administrativo
+1;18;Embalador
+1;21;Costureira I
+1;22;Costureira II
+1;23;Tecelão I
+1;25;Tintureiro I
+1;27;Mecânico Industrial
+1;28;Eletricista
+5;2;Escrit. Depto Pessoal
+1;14;Motorista
+1;15;Contador
+1;17;Auxiliar Almoxarifado
+1;32;Encarregado Almoxarifado
+1;34;Operador de Calandra II
+1;40;Diretor Administrativo
+1;41;Diretor de Produção
+1;42;Gerente de Contabilidade
+1;4;Analista Recursos Humanos
+1;43;Gerente de Manutenção
+3;11;Coordenador Administrativo
+3;9;Reitor
+3;10;Coordenador Campus
+3;12;Analista Recursos Humanos
+3;13;Analista Contábil
+3;14;Auxiliar Almoxarifado
+3;15;Analista de Patrimonio
+3;16;Analista TI
+3;17;Auxiliar TI
+3;18;Gerente de Manutenção
+5;999;Outros cargos
+1;12;Expedidor
+1;24;Tecelão II
+1;26;Tintureiro II
+1;33;Operador de Calandra I
+1;7;Técnico Segurança Trabalh
+5;4;Costureira
+1;1;Diretor Presidente
+1;10;Gerente Financeiro
+1;35;Empregada Doméstica
+1;37;Operador de Empilhadeira
+1;38;Operador de Guindaste
+1;36;Supervisora de Costura
+1;5;Enfermeiro(a)
+1;29;Advogado
+1;31;Gerente Comercial
+5;1;Aux. Depto Pessoal
+2;1;Gerente
+3;1;Professor 1o Grau
+3;4;Auxiliar Administrativo
+5;3;Revisora de Tecidos
+3;2;Professor 2o Grau
+1;13;Analista Financeiro
+1;16;Gerente Produção
+1;19;Revisor I
+1;2;Gerente Recursos Humanos
+1;20;Revisor II
+1;3;Vendedor
+2;10;Vendedor
+3;6;Contador
+5;5;Chefe de Recursos Humanos
+1;30;Auxiliar Contabilidade
+3;3;Professor 3o Grau
+3;5;Coordenador Pedagógico
+3;7;Líder Financeiro
+4;1;Prefeito
+4;2;Vice-Prefeito
+4;3;Secretário de Obras
+4;4;Secretário de Saúde
+4;5;Escriturário
+1;9;Dentista
+6;1;Presidente
+6;2;Gerente RH
+3;8;Motorista
+1;6;Telefonista/Recepcionista
+6;3;Gerente Financeiro
+6;4;Gerente Controladoria
